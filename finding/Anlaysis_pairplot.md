@@ -1,4 +1,6 @@
-The image you've provided is a pair plot (also known as a scatterplot matrix), which displays the pairwise relationships between different variables in a dataset. Each scatterplot shows the relationship between two variables, with points colored by a categorical variable, which in this case appears to be "team" with values from 1 to 19. Along the diagonal are density plots for each variable, showing the distribution of values.
+# Pair plot (also known as a scatterplot matrix), 
+
+which displays the pairwise relationships between different variables in a dataset. Each scatterplot shows the relationship between two variables, with points colored by a categorical variable, which in this case appears to be "team" with values from 1 to 19. Along the diagonal are density plots for each variable, showing the distribution of values.
 
 Here's an analysis of the pair plot:
 

@@ -1,4 +1,6 @@
-The image you've provided is a facet grid of scatter plots, showing the relationship between two variables: CTGL and Wt_total, for different teams (labeled team 0 to team 21, with some numbers missing which could be due to the absence of those teams or a result of the image cropping).
+# Facet grid of scatter plots, 
+
+showing the relationship between two variables: CTGL and Wt_total, for different teams (labeled team 0 to team 21, with some numbers missing which could be due to the absence of those teams or a result of the image cropping).
 
 A facet grid is a collection of similar plots separated into panels based on the levels of one or more categorical variables—in this case, the "team" variable. Here's what the plot tells us:
 

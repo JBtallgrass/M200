@@ -1,4 +1,6 @@
-The image you've provided is a correlation heatmap of assessments. Here's an analysis of the heatmap:
+# correlation heatmap of assessments.
+
+Here's an analysis of the heatmap:
 
 1. **Color Scheme**: The heatmap uses a color gradient from blue to red to represent correlation values between -1.0 and 1.0. Blue indicates a negative correlation, red indicates a positive correlation, and white or pale colors indicate a low or no correlation.
 

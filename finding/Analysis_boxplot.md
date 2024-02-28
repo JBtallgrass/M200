@@ -1,4 +1,6 @@
-The image appears to be a boxplot representing the distribution of CTGL scores across different teams, labeled 1 through 19. Here’s what the boxplot tells us:
+# boxplot representing the distribution of CTGL
+
+across different teams, labeled 1 through 19. Here’s what the boxplot tells us:
 
 1. **Central Tendency and Spread**:
    - Each box represents the interquartile range (IQR) of the scores for a team, which is the range between the 25th percentile (Q1) and the 75th percentile (Q3).

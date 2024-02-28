@@ -1,4 +1,6 @@
-The image depicts a series of violin plots representing the distribution of CTGL scores across different teams, labeled from 1 to 19 (with some numbers missing, possibly indicating that there is no data for those teams or they have been excluded for some reason).
+# Violin plots 
+
+Representing the distribution of CTGL scores across different teams, labeled from 1 to 19 (with some numbers missing, possibly indicating that there is no data for those teams or they have been excluded for some reason).
 
 Here's what we can infer from this plot:
 
