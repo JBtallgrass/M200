@@ -113,6 +113,8 @@ By examining not just the overall scores but also the distribution and the condi
 
 ## Distribution of CTGL scores. Here's an analysis of the histogram:
 
+#### (Contribution to Group Learning)
+
 ![Distribution of CTGL scores](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_ctgl.png) 
 
 1. **Central Tendency**:
