@@ -7,7 +7,7 @@ Date 27 February 2024
 
 Here's an analysis of the plot:
 
-![Weighted total plot](https://github.com/JBtallgrass/M200/blob/main/figure/m200_ctgl_wt_ttl.png)
+![Weighted total plot](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_wt_ttl.png)
 
 1. **Central Tendency**: The distribution of weighted totals peaks around 92.5 to 95, indicating that the average score is likely within this range. This central peak suggests that most students are achieving scores in the A range, assuming a typical grading scale.
 
