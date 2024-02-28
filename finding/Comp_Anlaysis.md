@@ -230,7 +230,7 @@ In summary, this scatter plot continues to add depth to the analysis by showing 
 
 Across different teams, labeled 1 through 19. Here’s what the boxplot tells us:
 
-![Distribution of CTGL](figure/m200_boxplot_ctgl_wt_ttl.png)
+![Distribution of CTGL](https://github.com/JBtallgrass/M200/blob/main/figure/m200_boxplot_ctgl_wt_ttl.png)
 
 1. **Central Tendency and Spread**:
    - Each box represents the interquartile range (IQR) of the scores for a team, which is the range between the 25th percentile (Q1) and the 75th percentile (Q3).
