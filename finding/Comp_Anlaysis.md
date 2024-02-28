@@ -7,7 +7,7 @@ Date 27 February 2024
 
 Here's an analysis of the plot:
 
-![Weighted total plot](figure/m200_ctgl_wt_ttl.png)
+![Weighted total plot](https://github.com/JBtallgrass/M200/blob/main/figure/m200_ctgl_wt_ttl.png)
 
 1. **Central Tendency**: The distribution of weighted totals peaks around 92.5 to 95, indicating that the average score is likely within this range. This central peak suggests that most students are achieving scores in the A range, assuming a typical grading scale.
 
@@ -35,7 +35,7 @@ From this analysis, a few insights can be gained:
 
 ## "Division Movement Plan" submitted by students. 
 
-![Division Movement Plan](figure/m200_df_div_mvmnt.png)
+![Division Movement Plan](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_div_mvmnt.png)
 
 Here’s an analysis of what this tells you and what can be gained from this analysis:
 
@@ -74,19 +74,19 @@ Based on the histograms provided, here is an analysis of the exam score distribu
    - The scores for the IMS group are heavily skewed towards the higher end, with a peak at the 100 score mark. This indicates that a significant number of IMS students scored perfectly or near-perfectly on the exam.
    - There are very few low scores, suggesting that the IMS group generally found the exam to be within their capabilities, or that they were well-prepared.
 
-![IMS Scores](figure/m200_df_bb_exam_ims.png)
+![IMS Scores](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_bb_exam_ims.png)
 
 2. **US Exam Scores Distribution**:
    - The U.S. students' scores are more evenly spread out, with a slight skew towards the higher end. The peak frequency is around the 90-95 score range.
    - There is a broader range of scores among U.S. students, indicating more variability in performance compared to the IMS group.
 
-![US Scores](figure/m200_df_bb_exam_us.png)
+![US Scores](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_bb_exam_us.png)
 
 3. **Total Exam Scores Distribution**:
    - When both groups are combined, the distribution has two peaks (bimodal), one around the 85 score range and a sharper peak at 100.
    - This bimodality could suggest that one group performed distinctly differently from the other, which is supported by the individual histograms.
   
-![exam score distributions](figure/m200_df_bb_exam_ttl.png)
+![exam score distributions](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_bb_exam_ttl.png)
 
 **Recommendations**:
 - **Review Exam Difficulty**: Given the high scores, especially among IMS students, review the exam's difficulty level to ensure it's adequately testing the desired knowledge and comprehension levels.
@@ -113,7 +113,7 @@ By examining not just the overall scores but also the distribution and the condi
 
 ## Distribution of CTGL scores. Here's an analysis of the histogram:
 
-![Distribution of CTGL scores]() 
+![Distribution of CTGL scores](https://github.com/JBtallgrass/M200/blob/main/figure/m200_df_ctgl.png) 
 
 1. **Central Tendency**:
    - The distribution has a clear mode around the score of 96, which appears to be the most frequent score range.
@@ -173,7 +173,7 @@ In the context of the histograms you provided, if CTGL scores are being used to 
 
 ### Scatter plot 1
 
-![Scatter Plot with Trend line](figure/m200_ctgl_wt_ttl.png)
+![Scatter Plot with Trend line](https://github.com/JBtallgrass/M200/blob/main/figure/m200_trend_ctgl_wt_ttl.png)
 
 Here's an analysis of the scatter plot:
 
@@ -202,7 +202,7 @@ This type of visualization is useful for understanding the relationship between 
 
 ### Scatterplot 2: The relationship between CTGL and Wt_total
 
- ![CTGL & Weighted total](figure/m200_trend_ctgl_wt_ttl.png)
+ ![CTGL & Weighted total](https://github.com/JBtallgrass/M200/blob/main/figure/m200_ctgl_wt_ttl.png)
 
 1. **Clustering by Team**:
    - The data points are color-coded by team, which allows for an easy visual comparison of where each team's members fall on the CTGL vs. Wt_total spectrum.
