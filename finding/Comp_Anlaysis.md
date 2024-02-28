@@ -262,7 +262,7 @@ This type of visualization is helpful for quickly comparing the central tendency
 
 Representing the distribution of CTGL scores across different teams, labeled from 1 to 19 (with some numbers missing, possibly indicating that there is no data for those teams or they have been excluded for some reason).
 
-![Violin Plot](figure/m200_violin_ctgl_wt_ttl.png)
+![Violin Plot](https://github.com/JBtallgrass/M200/blob/main/figure/m200_violin_ctgl_wt_ttl.png)
 
 Here's what we can infer from this plot:
 
@@ -292,7 +292,7 @@ This plot is useful for comparing the performance of different teams, understand
 
 ## Correlation heatmap of assessments.
 
-![Heatmap of Assessments](figure/m200_heatmap_ctgl_wt_ttl.png)
+![Heatmap of Assessments](https://github.com/JBtallgrass/M200/blob/main/figure/m200_heatmap_ctgl_wt_ttl.png)
 
 Here's an analysis of the heatmap:
 
@@ -332,7 +332,7 @@ This heatmap is useful for understanding the relationships between different ass
 
 A facet grid is a collection of similar plots separated into panels based on the levels of one or more categorical variables—in this case, the "team" variable. Here's what the plot tells us:
 
-![Facet Grid](figure/m200_facet_grid_ctgl_wt_ttl.png)
+![Facet Grid](https://github.com/JBtallgrass/M200/blob/main/figure/m200_facet_grid_ctgl_wt_ttl.png)
 
 1. **CTGL vs. Wt_total Relationship**:
    - Each panel shows a scatter plot for a different team.
@@ -364,7 +364,7 @@ This kind of visualization is particularly useful for comparing subgroups within
 
 Displays the pairwise relationships between different variables in a dataset. Each scatterplot shows the relationship between two variables, with points colored by a categorical variable, which in this case appears to be "team" with values from 1 to 19. Along the diagonal are density plots for each variable, showing the distribution of values.
 
-![Pair Plot](figure/m200_pair_plot_ctgl_wt_ttl.png)
+![Pair Plot](https://github.com/JBtallgrass/M200/blob/main/figure/m200_pair_plot_ctgl_wt_ttl.png)
 
 Here's an analysis of the pair plot:
 
