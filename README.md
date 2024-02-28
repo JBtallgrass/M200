@@ -1,6 +1,9 @@
 # Comprehensive Analysis of MOD 2 Phase Assessments in the Advanced Operation Course
 
-This document provides a detailed analysis of various assessments undertaken during the MOD 2 phase of the Advanced Operation Course. Conducted by Mr. Jason Ballard of the Command and General Staff School, the analysis spans different dimensions of student performance, including the distribution of weighted total scores, division movement plans, online exam results, and the contribution to group learning (CTGL). Through a series of visualizations—histograms, scatter plots, boxplots, violin plots, heatmaps, facet grids, and pair plots—we examine central tendencies, spread, skewness, outliers, and correlations among different metrics. This multifaceted approach allows us to draw comprehensive insights into student performance, instructional effectiveness, and assessment design.
+ Analyst: Mr. Jason Ballard, CGSS, Curriculum Development Support Team- Analytics
+ Completed:  February 27, 2024
+
+This document provides a detailed analysis of various assessments undertaken during the MOD 2 phase of the Advanced Operation Course. The analysis spans different dimensions of student performance, including the distribution of weighted total scores, division movement plans, online exam results, and the contribution to group learning (CTGL). Through a series of visualizations—histograms, scatter plots, boxplots, violin plots, heatmaps, facet grids, and pair plots—we examine central tendencies, spread, skewness, outliers, and correlations among different metrics. This multifaceted approach allows us to draw comprehensive insights into student performance, instructional effectiveness, and assessment design.
 
 ## Key Findings and Insights
 
